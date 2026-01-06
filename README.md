@@ -28,7 +28,7 @@ I’m focused on developing strong fundamentals, writing clean code, and buildin
 - **Backend (intro):** Node.js, REST APIs  
 - **Version Control:** Git, GitHub  
 - **Tools:** VS Code, npm, browser dev tools  
-- **Currently learning:** React, SQL, backend architecture  
+- **Currently learning:** React, SQL.
 
 ---
 
