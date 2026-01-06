@@ -1,10 +1,10 @@
 Hi, I’m Max 👋  
-*"I enjoy understanding how things work — and making them work better."*
+
 
 I’m a junior **Web / Software Developer** transitioning into full-stack development, with a background in IT support and technical troubleshooting.
 
-In my previous roles, I worked closely with systems, networks, and end users — which sparked my interest in how software is built, structured, and maintained behind the scenes.  
-That curiosity grew into a career shift: I’m currently completing the **TripleTen Full-Stack Development program**, building real projects using modern web technologies and object-oriented JavaScript.
+In my previous roles, I worked closely with systems, networks, and end users, which sparked my interest in how software is built, structured, and maintained behind the scenes.  
+That curiosity evolved into a career shift: I’m currently completing the **TripleTen Full-Stack Development program**, where I build real projects using modern web technologies and object-oriented JavaScript.
 
 I’m focused on developing strong fundamentals, writing clean code, and building applications that are practical, reliable, and easy to maintain.
 
@@ -42,6 +42,6 @@ I’m focused on developing strong fundamentals, writing clean code, and buildin
 
 ---
 
-📫 **Contact**
-- LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- Email: your@email.com
+📫**Contact**
+- LinkedIn: [www.linkedin.com/in/max-bezrodny](https://www.linkedin.com/in/max-bezrodny/)
+- Email: maximku97@gmail.com
