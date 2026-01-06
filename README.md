@@ -10,7 +10,7 @@ I’m focused on developing strong fundamentals, writing clean code, and buildin
 
 ---
 
-## 🌱 About me
+##  About me
 
 - Based in Israel 🇮🇱  
 - Background in IT support, networking, and technical problem-solving  
@@ -20,7 +20,7 @@ I’m focused on developing strong fundamentals, writing clean code, and buildin
 
 ---
 
-## 🛠 Core Skills
+##  Core Skills
 
 - **Languages:** JavaScript, HTML, CSS  
 - **Frontend:** Responsive layouts, DOM manipulation, modular JavaScript  
@@ -32,7 +32,7 @@ I’m focused on developing strong fundamentals, writing clean code, and buildin
 
 ---
 
-## 📌 Selected Projects
+##  Selected Projects
 
 - **Around the U.S.** – Interactive web application built with OOP principles, API integration, form validation, and modular architecture  
 - **JavaScript Components Library** – Reusable classes (Card, Section, Popup, FormValidator) following clean code practices  
